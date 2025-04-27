@@ -109,8 +109,8 @@ To set up the project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/house-sales-price-prediction.git
-   cd house-sales-price-prediction
+   git clone https://github.com/surendiran-20cl/House-Sales-Price-Prediction-Advanced-Regression-Techniques.git
+   cd House-Sales-Price-Prediction-Advanced-Regression-Techniques
    ```
 
 2. **Install required packages**:
